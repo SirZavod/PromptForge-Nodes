@@ -39,7 +39,7 @@ What that means in practice:
   prompt/seed/resolution — LoRA Manager selections submit against
   whichever workflow is currently cached, so if you flip workflows without
   noticing, your LoRAs apply to a different model/graph than you expect.
-- We'll ship example workflow JSONs (Anima, Klein, Qwen Image) wired up
+- We'll ship example workflow JSONs (Anima, Klein, Z-Image Turbo) wired up
   with the Connector node so this is easy to see in practice rather than
   just read about.
 
