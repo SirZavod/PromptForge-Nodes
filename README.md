@@ -1,7 +1,7 @@
 # PromptForge Connection
 
 A ComfyUI custom node package + HTTP bridge for the
-[PromptForge](../promptforgeint.py) desktop app.
+[PromptForge](https://github.com/SirZavod/PromptForge/tree/main#connecting-to-comfyui) desktop app.
 
 **The workflow** (once this package is installed):
 
