@@ -1,0 +1,11 @@
+[project]
+name = "PromptForge"
+description = "ComfyUI nodes for the Prompt Forge desktop app: a passthrough connector (prompt/seed/width/height/negative_prompt) and a multi-LoRA loader, used to drive ComfyUI generations from Prompt Forge."
+version = "1.1.0"
+license = { text = "Unlicense" }
+requires-python = ">=3.9"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "PromptForge"
+Icon = ""
