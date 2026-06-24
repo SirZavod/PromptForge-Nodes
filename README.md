@@ -17,6 +17,14 @@ workflows in the browser.
 
 ---
 ![PromptForge Nodes](Screenshot.png)
+
+## Installation
+
+Open your terminal in the `ComfyUI/custom_nodes` folder and run the following command. It will automatically clone the repository and create the `PromptForge` directory:
+
+```bash
+git clone [https://github.com/SirZavod/PromptForge-Nodes.git](https://github.com/SirZavod/PromptForge-Nodes.git) PromptForge
+
 ## ⚠️ Important: generation always targets the *last active* workflow
 
 PromptForge does **not** know about "tabs" or "which workflow you meant."
