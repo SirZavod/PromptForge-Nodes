@@ -16,7 +16,7 @@ automatically every time you change anything, including switching
 workflows in the browser.
 
 ---
-
+![PromptForge Nodes](Screenshot.png)
 ## ⚠️ Important: generation always targets the *last active* workflow
 
 PromptForge does **not** know about "tabs" or "which workflow you meant."
