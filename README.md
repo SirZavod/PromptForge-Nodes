@@ -218,7 +218,7 @@ PromptForge to be running or even installed.
 | `width`  | INT               | 64 – 8 192 (step 8)     | Overwritten by PromptForge on submit |
 | `height` | INT               | 64 – 8 192 (step 8)     | Overwritten by PromptForge on submit |
 | `image`  | COMBO (input/ files) | `"None"` to skip    | Overwritten by PromptForge on submit for img2img/img2video. Optional — leave "None" for plain text2image |
-| `mask`   | MASK (output only)  | —                      | Derived from the image's alpha channel, if any |
+| `mask`   | MASK (output only)  | —                      | Derived from the image's alpha channel |
 
 ### PromptForge Multi Lora Loader
 
